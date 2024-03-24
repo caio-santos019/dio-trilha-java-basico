@@ -9,7 +9,6 @@ public class BreakContinue {
             System.out.println(numero);
 
         }
-        // Qual a saída no console ?
 
     }
 }

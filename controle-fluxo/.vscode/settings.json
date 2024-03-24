@@ -3,5 +3,6 @@
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": ["lib/**/*.jar"],
   "editor.fontSize": 16,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "java.format.settings.url": "eclipse-formatter.xml"
 }
