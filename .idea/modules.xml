@@ -3,12 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Desafios/Desafios.iml" filepath="$PROJECT_DIR$/Desafios/Desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructors/constructors.iml" filepath="$PROJECT_DIR$/constructors/constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafios/desafio-controle-fluxo/desafio-controle-fluxo.iml" filepath="$PROJECT_DIR$/Desafios/desafio-controle-fluxo/desafio-controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-github.iml" filepath="$PROJECT_DIR$/.idea/dio-github.iml" />
       <module fileurl="file://$PROJECT_DIR$/estruturas-excepcionais/estruturas-excepcionais.iml" filepath="$PROJECT_DIR$/estruturas-excepcionais/estruturas-excepcionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/exemplo-pacotes/exemplo-pacotes.iml" filepath="$PROJECT_DIR$/exemplo-pacotes/exemplo-pacotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getters-setters-exemplo/getters-setters-exemplo.iml" filepath="$PROJECT_DIR$/getters-setters-exemplo/getters-setters-exemplo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/java-terminal/java-terminal.iml" />
       <module fileurl="file://$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
