@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafios/desafio-controle-fluxo/desafio-controle-fluxo.iml" filepath="$PROJECT_DIR$/Desafios/desafio-controle-fluxo/desafio-controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/diagramaca-classes-iphone/diagramaca-classes-iphone.iml" filepath="$PROJECT_DIR$/Desafios/diagramaca-classes-iphone/diagramaca-classes-iphone.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-github.iml" filepath="$PROJECT_DIR$/.idea/dio-github.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/estruturas-excepcionais/estruturas-excepcionais.iml" filepath="$PROJECT_DIR$/estruturas-excepcionais/estruturas-excepcionais.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/java-terminal/java-terminal.iml" />
       <module fileurl="file://$PROJECT_DIR$/msn-messenger/msn-messenger.iml" filepath="$PROJECT_DIR$/msn-messenger/msn-messenger.iml" />
       <module fileurl="file://$PROJECT_DIR$/pilares-poo/pilares-poo.iml" filepath="$PROJECT_DIR$/pilares-poo/pilares-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiro-projeto-poo/primeiro-projeto-poo.iml" filepath="$PROJECT_DIR$/primeiro-projeto-poo/primeiro-projeto-poo.iml" />
       <module fileurl="file://$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
     </modules>
